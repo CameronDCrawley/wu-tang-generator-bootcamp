@@ -1,18 +1,29 @@
-**Wu-Tang Name Generator**
+## Wu-Tang Name Generator
+Ever wonder what your Wu-Tang name would be? Answer 5 quick questions and our server will cook one up for you.
 
-Ever wonder what your Wu-Tang name would be? Answer 5 quick questions and my server will cook one up for you.
+## Features
+Interactive Quiz: Answer 5 quick questions covering your favorite food, anime, sport, state, and movie franchise.
 
-**How It Works**
+Server-Side Logic: Tallies your response letter (a, b, or c) to determine your category pool.
 
-You pick your favorite food, anime, sport, state, and movie franchise. Every answer is either an a, b, or c. The server counts up which letter you picked the most, and that letter decides which group of names you get pulled from. Then it grabs a random first name and a random last name from that group and puts them together.
+Randomized Generation: Grabs a random first name and last name from your matching category group to produce unique combinations every time.
 
-So you might walk away as **Wiz King**, **Thug Machine**, or **Plug Cole**. Every name is different, even if you answer the same way twice.
+## How It Works
+The user selects their preferences for food, anime, sport, state, and movie franchise (every answer maps to an a, b, or c).
 
-**Built With**
+The server tallies which letter was picked the most to determine which group of names to pull from.
 
-- Node.js
-- Vanilla JavaScript on the client side with fetch
-- HTML
-- CSS
+The application randomly selects a first name and a last name from that group and joins them together.
+
+You walk away with a unique alias like Wiz King, Thug Machine, or Plug Cole—guaranteed to be different even if you select the exact same answers twice.
+
+## Built With
+Node.js
+
+JavaScript (client-side with fetch)
+
+HTML
+
+CSS
 
 <img width="2777" height="1524" alt="Wu-Tang Name Generator screenshot" src="https://github.com/user-attachments/assets/53529a1e-091d-4ec0-845a-75718763c986" />
