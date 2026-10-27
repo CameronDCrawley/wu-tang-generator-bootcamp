@@ -1,13 +1,13 @@
 ## Wu-Tang Name Generator
 Ever wonder what your Wu-Tang name would be? Answer 5 quick questions, and our server will cook one up for you.
 ## Live Demo
-Render Deployment:https://wu-tang-generator-bootcamp-a1la.onrender.com/
+**Render Deployment:** https://wu-tang-generator-bootcamp-a1la.onrender.com/
 ## Features
-Interactive Quiz: Answer 5 quick questions covering your favorite food, anime, sport, state, and movie franchise.
+**Interactive Quiz:** Answer 5 quick questions covering your favorite food, anime, sport, state, and movie franchise.
 
-Server-Side Logic: Tallies your response letter (a, b, or c) to determine your category pool.
+**Server-Side Logic:** Tallies your response letter (a, b, or c) to determine your category pool.
 
-Randomized Generation: Grabs a random first name and last name from your matching category group to produce unique combinations every time.
+**Randomized Generation:** Grabs a random first name and last name from your matching category group to produce unique combinations every time.
 
 ## How It Works
 The user selects their preferences for food, anime, sport, state, and movie franchise (every answer maps to an a, b, or c).
@@ -21,7 +21,7 @@ You walk away with a unique alias like Wiz King, Thug Machine, or Plug Cole—gu
 ## Built With
 Node.js
 
-JavaScript (client-side with fetch)
+JavaScript
 
 HTML
 
